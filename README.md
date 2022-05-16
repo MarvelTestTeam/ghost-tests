@@ -34,7 +34,7 @@ En los siguientes archivos se encuentran los usuarios y contraseñas que usa cad
 
 cypress -> kraken\properties.json (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
 
-kraken -> "kraken\properties.json"
+kraken -> "kraken\properties.json" (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
 
 En cada archivo en el que se encuentre dicha información debe reemplazarse el texto "jorgeballe@gmail.com" por el nombre de usuario que se esté usando en la instalación local de ghost, o se puede crear un usuario con este nombre de usuario, dicho usuario, asi como el que se utilice en caso de que se prefiera reemplazar texto, debe tener permisos suficientes para realizar todas las pruebas desarrolladas, se recomienda que el susuario tenga permisos de adminsistrado de ghost.
 
