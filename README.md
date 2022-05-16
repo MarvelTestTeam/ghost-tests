@@ -290,6 +290,14 @@ Las capturas de pantalla de ejecución de escenarios en las versiones diferencia
 
 # REPORTE DE REGRESIÓN VISUAL
 
+Para la generación del reporte de regresión visual se utilizó la herramienta Resemble.
+
+# EJECUCIÓN DE REPORTE DE REGRESIÓN VISUAL
+
+El código del reporte de regresión visual se encuentra en la ruta:
+
+"results" (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
+
 Los reportes de regresión visual puden encontrarse en las siguientes ubicaciones
 
 "results" (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
