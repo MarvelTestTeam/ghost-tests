@@ -122,7 +122,7 @@ LAS FUNCIONALIDADES QUE SE UTILIZARON PARA LAS PRUEBAS DESARROLLADAS FUERON:
 
 # LISTADO DE LOS ESCENARIOS DISEÑADOS
 
-RELACIÓN DE PRUEBAS (El dato Cod. Funcionalidad se refiere al código de la funcionalidad del listado inmediatamente anterior)
+RELACIÓN DE PRUEBAS (El dato Código Funcionalidad se refiere al código de la funcionalidad del listado inmediatamente anterior)
 ```json
 [
  {
