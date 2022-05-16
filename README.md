@@ -1,4 +1,4 @@
-# GHOST TESTS UNIANDES
+# GHOST TESTS MISO UNIANDES
 
 Se realizó el trabajo de unificar las pruebas de cypress y kraken en un solo repositorio con base en las indicaciones de retroalimentación a la entrega de la semana anterior
 
