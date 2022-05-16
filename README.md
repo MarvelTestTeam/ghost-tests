@@ -16,7 +16,7 @@ Para esta entrega se ejecutó ghost en docker, tanto para la versión original e
 
 # VERSIONES DE GHOST UTILIZADAS
 
-Versión inicial utilizada -> ghost 4.47.0 - puerto en el que se corrió (y por lo tanto puerto que se tiene que usar para que las pruebas funcionen) -> 3002 - es decir que se debe ejecutar en la URL http://localhost:3002/
+Versión inicial utilizada -> ghost 4.47.0 - puerto en el que se corrió (y por lo tanto puerto que se tiene que usar para que las pruebas funcionen) -> 2368 - es decir que se debe ejecutar en la URL http://localhost:2368/
 
 Versión Semana 6 -> ghost 3.42 - puerto en el que se corrió (y por lo tanto puerto que se tiene que usar para que las pruebas funcionen) -> 3001 - es decir que se debe ejecutar en la URL http://localhost:3001/
 
