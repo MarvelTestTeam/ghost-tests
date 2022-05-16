@@ -61,7 +61,7 @@ FN14 -> Invitar Staff
 # LISTADO DE LOS ESCENARIOS DISEÑADOS
 
 RELACIÓN DE PRUEBAS (El dato Cod. Funcionalidad se refiere al código de la funcionalidad del listado inmediatamente anterior)
-
+```json
 [
  {
    "Código Prueba": "PR-001",
@@ -204,6 +204,7 @@ RELACIÓN DE PRUEBAS (El dato Cod. Funcionalidad se refiere al código de la fun
    "Descripción Escenario": "Retornar a página de dashboard - Intentar Invitar Staff con correo electrónico erroneo - Validar que el sistema genere error de correo erroneo."
  }
 ]
+'''
 
 # CAPTURAS DE PANTALLA DE LAS PRUEBAS EJECUTADAS
 
