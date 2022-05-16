@@ -3,7 +3,7 @@
 context('Actions', () => {
 
     beforeEach(() => {
-        cy.visit('http://localhost:2368/ghost/#/signin')
+        cy.visit('http://localhost:3002/ghost/#/signin')
         cy.get('input[name="identification"]').type('javierpita17@hotmail.com')
         cy.get('input[name="password"]').type('Cpita2018*')
         cy.get(('[id=ember11]')).click()
