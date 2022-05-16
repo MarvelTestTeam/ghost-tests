@@ -12,11 +12,11 @@ kraken -> en la que se encuentra instalada la herramienta kraken así como el c�
 
 # AMBIENTES GHOST PARA EJECUCIÓN DE PRUEBAS
 
-Para esta entrega se ejecutó ghost en docker, tano para la versión original en la que se hicieron las primeras pruebas como para la versión contraria en nuestro caso la versión incial que se utilizó fue la más reciente y por lo tanto la versión contraria es la más antigua
+Para esta entrega se ejecutó ghost en docker, tanto para la versión original en la que se hicieron las primeras pruebas como para la versión contraria en nuestro caso la versión incial que se utilizó fue la más reciente y por lo tanto la versión contraria es la más antigua
 
 # VERSIONES DE GHOST UTILIZADAS
 
-Versión inicial utilizada -> ghost 4.47.0 - puerto en el que se corrió (y por lo tanto puerto que se tiene que usar para que las pruebas funcionen) -> 3002 - es decir que se debe ejecutar en la URL http://localhost:3002/
+Versión inicial utilizada -> ghost 4.47.0 - puerto en el que se corrió (y por lo tanto puerto que se tiene que usar para que las pruebas funcionen) -> 2368 - es decir que se debe ejecutar en la URL http://localhost:2368/
 
 Versión Semana 6 -> ghost 3.42 - puerto en el que se corrió (y por lo tanto puerto que se tiene que usar para que las pruebas funcionen) -> 3001 - es decir que se debe ejecutar en la URL http://localhost:3001/
 
@@ -34,7 +34,7 @@ En los siguientes archivos se encuentran los usuarios y contraseñas que usa cad
 
 cypress -> kraken\properties.json (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
 
-kraken -> "kraken\properties.json"
+kraken -> "kraken\properties.json" (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
 
 En cada archivo en el que se encuentre dicha información debe reemplazarse el texto "jorgeballe@gmail.com" por el nombre de usuario que se esté usando en la instalación local de ghost, o se puede crear un usuario con este nombre de usuario, dicho usuario, asi como el que se utilice en caso de que se prefiera reemplazar texto, debe tener permisos suficientes para realizar todas las pruebas desarrolladas, se recomienda que el susuario tenga permisos de adminsistrado de ghost.
 
@@ -122,7 +122,7 @@ LAS FUNCIONALIDADES QUE SE UTILIZARON PARA LAS PRUEBAS DESARROLLADAS FUERON:
 
 # LISTADO DE LOS ESCENARIOS DISEÑADOS
 
-RELACIÓN DE PRUEBAS (El dato Cod. Funcionalidad se refiere al código de la funcionalidad del listado inmediatamente anterior)
+RELACIÓN DE PRUEBAS (El dato Código Funcionalidad se refiere al código de la funcionalidad del listado inmediatamente anterior)
 ```json
 [
  {
