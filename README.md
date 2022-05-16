@@ -264,7 +264,15 @@ kraken -> "kraken\reports\miso-evidences\reporte-pruebas-exitosas\screenshots" (
 
 # REPORTES DE RESULTADOS DE PRUEBAS EJECUTADAS
 
-El reporte del resultado exitos de las pruebas de kraken puede visualizarse en la ruta:
+Los reportes del resultado exito de las pruebas pueden visualizarse en la ruta:
 
-reporte kraken -> "kraken\reports\miso-evidences\reporte-pruebas-exitosas" (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
+Reporte kraken -> "kraken\reports\miso-evidences\reporte-pruebas-exitosas" (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
+
+# REPORTE DE REGRESIÓN VISUAL
+
+Los reportes de regresión visual puden encontrarse en las siguientes ubicaciones
+
+Reporte Cypress ->
+
+Reporte kraken ->
 
