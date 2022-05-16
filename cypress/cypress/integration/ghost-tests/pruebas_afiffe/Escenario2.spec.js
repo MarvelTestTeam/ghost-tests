@@ -9,7 +9,7 @@ context('Actions', () => {
 
   it('.type() - type into a DOM element', () => {
     // https://on.cypress.io/type
-    cy.get('input[name="identification"]').type('afiffe.retamozo.a@gmail.com')
+    cy.get('input[name="identification"]').type('jorgeballe@gmail.com')
     cy.screenshot();
             cy.get('input[name="password"]').type('Asdfg12345!')
             cy.screenshot();

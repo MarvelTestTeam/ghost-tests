@@ -28,6 +28,20 @@ Para Cypress -> Se debe acceder a la ruta "cypress\cypress\integration\ghost-tes
 
 Para Cypress -> Se debe acceder a la ruta "kraken\features\ft-001.feature" (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local) y en dicho archivo (OJO por favor tener en cuenta que la ruta que se está indicando es directamente la del archivo) se debe realizar el reemplazo del texto "3002" por el puerto que se vaya a utilizar o en el que se tenga corriendo la versión local, esto puede hacerse mediente la herramienta buscar y reemplzar del editor de texto que se está utilizando, si no se tiene conocimiento de como realizar esto se debe buscar en la documentación de su editor.
 
+# USUARIOS PARA ACCESO A LA HERRAMIENTA GHOST
+
+En los siguientes archivos se encuentran los usuarios y contraseñas que usa cada herramienta para conectarse a la herramienta ghost:
+
+cypress -> kraken\properties.json (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
+
+kraken -> "kraken\properties.json"
+
+En cada archivo en el que se encuentre dicha información debe reemplazarse el texto "jorgeballe@gmail.com" por el nombre de usuario que se esté usando en la instalación local de ghost, o se puede crear un usuario con este nombre de usuario, dicho usuario, asi como el que se utilice en caso de que se prefiera reemplazar texto, debe tener permisos suficientes para realizar todas las pruebas desarrolladas, se recomienda que el susuario tenga permisos de adminsistrado de ghost.
+
+En cada archivo en el que se encuentre dicha información debe reemplazarse el texto "Asdfg12345!" por la contraseña del usuario que se esté usando en la instalación local de ghost, o se puede crear un usuario con esta contraseña, dicho usuario, asi como el que se utilice en caso de que se prefiera reemplazar texto, debe tener permisos suficientes para realizar todas las pruebas desarrolladas, se recomienda que el susuario tenga permisos de adminsistrado de ghost.
+
+El reemplazo de texto puede hacerse mediente la herramienta buscar y reemplzar del editor de texto que se está utilizando, si no se tiene conocimiento de como realizar esto se debe buscar en la documentación de su editor.
+
 # EJECUCIÓN DE HERRAMIENTAS CYPRESS Y KRAKEN
 
 Posterior a esto se pueden ejecutar las pruebas tanto de Cypress como de kraken, si no se tiene conocimiento de como ejecutar este tipo de herramientas se puede consultar la siguiente documentación:
@@ -264,13 +278,13 @@ kraken -> "kraken\reports\miso-evidences\reporte-pruebas-exitosas\screenshots" (
 
 # REPORTES DE RESULTADOS DE PRUEBAS EJECUTADAS
 
-Los reportes del resultado exito de las pruebas pueden visualizarse en la ruta:
+Los reportes del resultado exitoso de las pruebas pueden visualizarse en la ruta:
 
 Reporte kraken -> "kraken\reports\miso-evidences\reporte-pruebas-exitosas" (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
 
 # CAPTURAS DE PANTALLA DE LA SEMANA 6
 
-Las captuas de pantalla de ejecución de escenarios en las versiones diferenciales pueden encontrarse en la siguiente ruta:
+Las capturas de pantalla de ejecución de escenarios en las versiones diferenciales pueden encontrarse en la siguiente ruta:
 
 "cypress\cypress\screenshots\2-advanced-examples" (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
 
@@ -278,7 +292,5 @@ Las captuas de pantalla de ejecución de escenarios en las versiones diferencial
 
 Los reportes de regresión visual puden encontrarse en las siguientes ubicaciones
 
-Reporte Cypress ->
-
-Reporte kraken ->
+"results" (IMPORTANTE: Esta ruta es relativa y se debe buscar de acuerdo con la ubicación en donde se haya clonado el proyecto en el equipo local)
 
