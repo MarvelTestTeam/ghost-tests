@@ -44,21 +44,67 @@ Todas las pruebas fueron desarrolladas tratando de indicar a las herramientas, c
 
 LAS FUNCIONALIDADES QUE SE UTILIZARON PARA LAS PRUEBAS DESARROLLADAS FUERON:
 
-Cód. -> Funcionalidad
-FN01 -> Login
-FN02 -> Crear Post
-FN03 -> Editar Post
-FN04 -> Eliminar Post
-FN05 -> Crecion de Tags
-FN06 -> Edicion de Tags
-FN07 -> Eliminacion de Tags
-FN08 -> Crear Pages
-FN09 -> Listado de Posts Publicados
-FN10 -> Listado de Posts En borrador
-FN11 -> Listado de Posts programados
-FN12 -> Listado de Pages
-FN13 -> Eliminar Pagina
-FN14 -> Invitar Staff
+```json
+
+[
+ {
+   "Código Funcionalidad": "FN01",
+   "Funcionalidad": "Login"
+ },
+ {
+   "Código Funcionalidad": "FN02",
+   "Funcionalidad": "Crear Post"
+ },
+ {
+   "Código Funcionalidad": "FN03",
+   "Funcionalidad": "Editar Post"
+ },
+ {
+   "Código Funcionalidad": "FN04",
+   "Funcionalidad": "Eliminar Post"
+ },
+ {
+   "Código Funcionalidad": "FN05",
+   "Funcionalidad": "Crecion de Tags"
+ },
+ {
+   "Código Funcionalidad": "FN06",
+   "Funcionalidad": "Edicion de Tags"
+ },
+ {
+   "Código Funcionalidad": "FN07",
+   "Funcionalidad": "Eliminacion de Tags"
+ },
+ {
+   "Código Funcionalidad": "FN08",
+   "Funcionalidad": "Crear Pages"
+ },
+ {
+   "Código Funcionalidad": "FN09",
+   "Funcionalidad": "Listado de Posts Publicados"
+ },
+ {
+   "Código Funcionalidad": "FN10",
+   "Funcionalidad": "Listado de Posts En borrador"
+ },
+ {
+   "Código Funcionalidad": "FN11",
+   "Funcionalidad": "Listado de Posts programados"
+ },
+ {
+   "Código Funcionalidad": "FN12",
+   "Funcionalidad": "Listado de Pages"
+ },
+ {
+   "Código Funcionalidad": "FN13",
+   "Funcionalidad": "Eliminar Pagina"
+ },
+ {
+   "Código Funcionalidad": "FN14",
+   "Funcionalidad": "Invitar Staff"
+ }
+]
+```
 
 # LISTADO DE LOS ESCENARIOS DISEÑADOS
 
