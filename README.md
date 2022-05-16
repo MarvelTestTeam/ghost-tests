@@ -7,6 +7,7 @@ Se realizó el trabajo de unificar las pruebas de cypress y kraken en un solo re
 Dentro del repositorio existen dos carpetas
 
 cypress -> en la que se encuentra instalada la herramienta cypress así como el código de las pruebas en dicha herramienta
+
 kraken -> en la que se encuentra instalada la herramienta kraken así como el código de las pruebas en dicha herramienta
 
 # AMBIENTES GHOST PARA EJECUCIÓN DE PRUEBAS
@@ -16,6 +17,7 @@ Para esta entrega se ejecutó ghost en docker, tano para la versión original en
 # VERSIONES DE GHOST UTILIZADAS
 
 Versión inicial utilizada -> ghost 4.47.0 - puerto en el que se corrió (y por lo tanto puerto que se tiene que usar para que las pruebas funcionen) -> 3002 - es decir que se debe ejecutar en la URL http://localhost:3002/
+
 Versión Semana 6 -> ghost 3.42 - puerto en el que se corrió (y por lo tanto puerto que se tiene que usar para que las pruebas funcionen) -> 3001 - es decir que se debe ejecutar en la URL http://localhost:3001/
 
 # GESTIÓN DE PUERTOS DE EJECUCIÓN DE GHOST
