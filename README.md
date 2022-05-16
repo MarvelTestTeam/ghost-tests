@@ -12,7 +12,7 @@ kraken -> en la que se encuentra instalada la herramienta kraken así como el c�
 
 # AMBIENTES GHOST PARA EJECUCIÓN DE PRUEBAS
 
-Para esta entrega se ejecutó ghost en docker, tano para la versión original en la que se hicieron las primeras pruebas como para la versión contraria en nuestro caso la versión incial que se utilizó fue la más reciente y por lo tanto la versión contraria es la más antigua
+Para esta entrega se ejecutó ghost en docker, tanto para la versión original en la que se hicieron las primeras pruebas como para la versión contraria en nuestro caso la versión incial que se utilizó fue la más reciente y por lo tanto la versión contraria es la más antigua
 
 # VERSIONES DE GHOST UTILIZADAS
 
